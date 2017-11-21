@@ -1,9 +1,13 @@
 # Pidupäev
 
 Meie käime tip-tip-tip,
+
 igaühel käes on lipp,
+
 eemal paistab torni tipp,
+
 kus on just seesama lipp.
+
 
 
 [Autor:](https://et.wikipedia.org/wiki/Ellen_Niit)
