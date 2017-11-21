@@ -1,9 +1,8 @@
-# Pealkiri
+# Pidupäev
 
-Meie käime tip-tip-tip.
-Igalühel käes on lipp.
-
-Eemal paistab torni tipp,
+Meie käime tip-tip-tip,
+igaühel käes on lipp,
+eemal paistab torni tipp,
 kus on just seesama lipp.
 
 
