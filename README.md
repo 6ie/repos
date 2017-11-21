@@ -9,7 +9,7 @@ kus on just seesama lipp.
 
 [Autor:](https://et.wikipedia.org/wiki/Ellen_Niit)
 
-!(https://upload.wikimedia.org/wikipedia/commons/5/59/Pikk_Hermann_tower.jpg "Pikk Herman")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/59/Pikk_Hermann_tower.jpg "Pikk Herman")
 
 ## Pealkiri 2
 
