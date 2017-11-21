@@ -1,8 +1,11 @@
 # Pidupäev
 
 Meie käime tip-tip-tip,
+
 igaühel käes on lipp,
+
 eemal paistab torni tipp,
+
 kus on just seesama lipp.
 
 
