@@ -9,6 +9,8 @@ kus on just seesama lipp.
 
 [Autor:](https://et.wikipedia.org/wiki/Ellen_Niit)
 
+![alt text][logo]
+
 [logo]: https://www.visitestonia.com/en/pikk-hermann-tall-hermann "Pikk Herman"
 
 ## Pealkiri 2
