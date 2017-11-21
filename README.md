@@ -1,4 +1,4 @@
-#H1 Pealkiri
+# Pealkiri
 
 Meie käime tip-tip-tip.
 Igalühel käes on lipp.
@@ -11,7 +11,7 @@ kus on just seesama lipp.
 
 [logo]: https://www.visitestonia.com/en/pikk-hermann-tall-hermann "Pikk Herman"
 
-##H2
+## Pealkiri 2
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
